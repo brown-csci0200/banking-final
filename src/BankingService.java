@@ -1,4 +1,4 @@
-package banking;
+package src;
 
 public class BankingService {
     IAcctSet accounts;
